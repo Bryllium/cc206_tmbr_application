@@ -1,20 +1,12 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(MaterialApp(
+    home: TextToSpeechPage(),
+  ));
 }
 
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Text to Speech App',
-      home: TexttoSpeechPage(),
-    );
-  }
-}
-
-class TexttoSpeechPage extends StatelessWidget {
+class TextToSpeechPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -22,9 +14,39 @@ class TexttoSpeechPage extends StatelessWidget {
         title: Text('Text to Speech Page'),
       ),
       body: Center(
-        child: Text(
-          'Your Text to Speech Content Goes Here',
-          style: TextStyle(fontSize: 24.0),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: <Widget>[
+            Icon(
+              Icons.volume_up,
+              size: 64,
+              color: Colors.blue,
+            ),
+            SizedBox(height: 16),
+            Text(
+              'Listen to the Text',
+              style: TextStyle(
+                fontSize: 24,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+            SizedBox(height: 16),
+            ElevatedButton(
+              onPressed: () {
+                // Implement your text-to-speech logic here
+              },
+              style: ElevatedButton.styleFrom(
+                primary: Colors.blue,
+              ),
+              child: Text(
+                'Play Text',
+                style: TextStyle(
+                  fontSize: 20,
+                  color: Colors.white,
+                ),
+              ),
+            ),
+          ],
         ),
       ),
     );

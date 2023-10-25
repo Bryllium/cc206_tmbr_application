@@ -1,47 +1,71 @@
 import 'package:flutter/material.dart';
 
-class CopyAndPastePage extends StatelessWidget {
+void main() {
+  runApp(MaterialApp(
+    home: CopyAndPastePage(),
+  ));
+}
+
+class CopyAndPastePage extends StatefulWidget {
   const CopyAndPastePage({Key? key}) : super(key: key);
+
+  @override
+  _CopyAndPastePageState createState() => _CopyAndPastePageState();
+}
+
+class _CopyAndPastePageState extends State<CopyAndPastePage> {
+  final TextEditingController _textController = TextEditingController();
+  String pastedText = '';
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: Text('Copy and Paste Page'),
+        backgroundColor: Colors.teal,
       ),
-      body: Padding(
-        padding: const EdgeInsets.all(16.0),
+      body: Container(
+        padding: EdgeInsets.all(16),
         child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: <Widget>[
-            Text(
-              'Welcome to Copy and Paste Page!',
-              style: TextStyle(
-                fontSize: 24,
-                fontWeight: FontWeight.bold,
+            Padding(
+              padding: EdgeInsets.all(16),
+              child: Text(
+                'Put a text:',
+                style: TextStyle(
+                  fontSize: 24,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.teal,
+                ),
               ),
             ),
-            SizedBox(height: 16),
             TextField(
+              controller: _textController,
               decoration: InputDecoration(
-                labelText: 'Enter Text to Copy',
+                labelText: 'Text to Copy',
                 border: OutlineInputBorder(),
               ),
             ),
             SizedBox(height: 16),
             ElevatedButton(
               onPressed: () {
-                // Implement your copy logic here
+                setState(() {
+                  pastedText = _textController.text;
+                });
               },
               child: Text('Copy'),
+              style: ButtonStyle(
+                backgroundColor: MaterialStateProperty.all(Colors.teal),
+              ),
             ),
             SizedBox(height: 16),
             Text(
-              'Paste Here:',
+              'Pasted Text:',
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.bold,
+                color: Colors.teal,
               ),
             ),
             SizedBox(height: 8),
@@ -49,11 +73,15 @@ class CopyAndPastePage extends StatelessWidget {
               width: double.infinity,
               padding: EdgeInsets.all(8),
               decoration: BoxDecoration(
-                border: Border.all(color: Colors.black),
+                border: Border.all(color: Colors.teal),
+                borderRadius: BorderRadius.circular(8),
               ),
               child: Text(
-                'Pasted Text Will Appear Here',
-                style: TextStyle(fontSize: 16),
+                pastedText,
+                style: TextStyle(
+                  fontSize: 16,
+                  color: Colors.teal,
+                ),
               ),
             ),
           ],
@@ -61,10 +89,4 @@ class CopyAndPastePage extends StatelessWidget {
       ),
     );
   }
-}
-
-void main() {
-  runApp(MaterialApp(
-    home: CopyAndPastePage(),
-  ));
 }
