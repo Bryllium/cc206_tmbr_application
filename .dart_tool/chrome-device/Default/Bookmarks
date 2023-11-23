@@ -1,0 +1,143 @@
+{
+   "checksum": "7300bd7a3bc7e7cc56b5db2059900923",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13277135995643489",
+            "date_last_used": "0",
+            "guid": "7c1ffdf8-1061-48c8-ab68-15b92d42f89e",
+            "id": "15",
+            "name": "Online Registration for US Visa Applicants",
+            "type": "url",
+            "url": "https://slec.ph/us/registration/"
+         }, {
+            "date_added": "13281540283234318",
+            "date_last_used": "0",
+            "guid": "76e2e610-e273-41d8-9e0b-11f76c5428cd",
+            "id": "16",
+            "name": "PDF to Word Converter - 100% Free",
+            "type": "url",
+            "url": "https://smallpdf.com/result#r=c80be5a05e879f272bd37c2ace340a5f&t=pdf-to-word"
+         }, {
+            "date_added": "13318577151833839",
+            "date_last_used": "0",
+            "guid": "904e54a6-9ffa-4e7a-96e1-4532160a9d4e",
+            "id": "17",
+            "name": "Cisco Packet Tracer - Networking Simulation Tool",
+            "type": "url",
+            "url": "https://www.netacad.com/courses/packet-tracer"
+         }, {
+            "date_added": "13325497860655561",
+            "date_last_used": "13340213647383922",
+            "guid": "04ad69f9-8ed7-4651-af7c-5a8e37f2613c",
+            "id": "18",
+            "name": "monday.com | A new way of working",
+            "type": "url",
+            "url": "https://monday.com/"
+         }, {
+            "date_added": "13326992785952677",
+            "date_last_used": "0",
+            "guid": "cebe8747-6c4a-41e9-8435-372a0636a5a1",
+            "id": "19",
+            "name": "IP Subnet Calculator",
+            "type": "url",
+            "url": "https://www.calculator.net/ip-subnet-calculator.html?cclass=b&csubnet=16&cip=172.53.0.0&ctype=ipv4&printit=0&x=120&y=28"
+         }, {
+            "date_added": "13328885305011891",
+            "date_last_used": "0",
+            "guid": "c0176ee8-2c12-4eb6-803a-2354117c10a8",
+            "id": "20",
+            "name": "Link Room",
+            "type": "url",
+            "url": "https://linkroom.vercel.app/"
+         }, {
+            "date_added": "13329979543950405",
+            "date_last_used": "0",
+            "guid": "6437004e-556a-4891-80b3-c229564c972e",
+            "id": "21",
+            "name": "KAT - Kickass Torrents",
+            "type": "url",
+            "url": "https://kick4ss.com/full"
+         }, {
+            "date_added": "13329980234362631",
+            "date_last_used": "0",
+            "guid": "75b00ff8-37b8-476d-8f1b-89e017b3b95f",
+            "id": "22",
+            "name": "KickassTorrents - Download torrents from Kickass Torrents",
+            "type": "url",
+            "url": "https://kickasstorrents.to/"
+         }, {
+            "date_added": "13340172152055092",
+            "date_last_used": "0",
+            "guid": "9be09a65-11ec-4796-b766-07b6635f4ced",
+            "id": "23",
+            "name": "Fire detection system with Arduino",
+            "type": "url",
+            "url": "https://www.robotique.tech/robotics/fire-detection-system-with-arduino/"
+         }, {
+            "date_added": "13340946233436398",
+            "date_last_used": "0",
+            "guid": "6d0e6e8f-972d-44c0-9442-070f1c499817",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New tab",
+            "type": "url",
+            "url": "edge://newtab/"
+         }, {
+            "date_added": "13341069759364682",
+            "date_last_used": "0",
+            "guid": "bfc0f8d3-af99-4a9b-9774-0434f7183f94",
+            "id": "9",
+            "name": "Agoda",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/agoda.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13341069759364489",
+            "date_last_used": "0",
+            "guid": "f84d5a1f-48c0-4517-a937-097d13916b0a",
+            "id": "8",
+            "name": "Amazon",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13341069759364095",
+            "date_last_used": "0",
+            "guid": "6dfe4b40-69e7-4b52-813b-d1e4f62bb4b6",
+            "id": "7",
+            "name": "Facebook",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/20q2/facebook.html?utm_source=win32&utm_medium=favorite"
+         } ],
+         "date_added": "13341069759092435",
+         "date_last_used": "0",
+         "date_modified": "13341072773539076",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13341069759092438",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13341069759092440",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

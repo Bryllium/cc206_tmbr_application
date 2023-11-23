@@ -1,0 +1,173 @@
+{
+   "checksum": "b4b453534ec467ed13943cfcefa14f5d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13277135995643489",
+            "date_last_used": "0",
+            "guid": "7c1ffdf8-1061-48c8-ab68-15b92d42f89e",
+            "id": "15",
+            "name": "Online Registration for US Visa Applicants",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://slec.ph/us/registration/"
+         }, {
+            "date_added": "13281540283234318",
+            "date_last_used": "0",
+            "guid": "76e2e610-e273-41d8-9e0b-11f76c5428cd",
+            "id": "16",
+            "name": "PDF to Word Converter - 100% Free",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://smallpdf.com/result#r=c80be5a05e879f272bd37c2ace340a5f&t=pdf-to-word"
+         }, {
+            "date_added": "13318577151833839",
+            "date_last_used": "0",
+            "guid": "904e54a6-9ffa-4e7a-96e1-4532160a9d4e",
+            "id": "17",
+            "name": "Cisco Packet Tracer - Networking Simulation Tool",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.netacad.com/courses/packet-tracer"
+         }, {
+            "date_added": "13325497860655561",
+            "date_last_used": "13340213647383922",
+            "guid": "04ad69f9-8ed7-4651-af7c-5a8e37f2613c",
+            "id": "18",
+            "name": "monday.com | A new way of working",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://monday.com/"
+         }, {
+            "date_added": "13326992785952677",
+            "date_last_used": "0",
+            "guid": "cebe8747-6c4a-41e9-8435-372a0636a5a1",
+            "id": "19",
+            "name": "IP Subnet Calculator",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.calculator.net/ip-subnet-calculator.html?cclass=b&csubnet=16&cip=172.53.0.0&ctype=ipv4&printit=0&x=120&y=28"
+         }, {
+            "date_added": "13328885305011891",
+            "date_last_used": "0",
+            "guid": "c0176ee8-2c12-4eb6-803a-2354117c10a8",
+            "id": "20",
+            "name": "Link Room",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://linkroom.vercel.app/"
+         }, {
+            "date_added": "13329979543950405",
+            "date_last_used": "0",
+            "guid": "6437004e-556a-4891-80b3-c229564c972e",
+            "id": "21",
+            "name": "KAT - Kickass Torrents",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://kick4ss.com/full"
+         }, {
+            "date_added": "13329980234362631",
+            "date_last_used": "0",
+            "guid": "75b00ff8-37b8-476d-8f1b-89e017b3b95f",
+            "id": "22",
+            "name": "KickassTorrents - Download torrents from Kickass Torrents",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://kickasstorrents.to/"
+         }, {
+            "date_added": "13340172152055092",
+            "date_last_used": "0",
+            "guid": "9be09a65-11ec-4796-b766-07b6635f4ced",
+            "id": "23",
+            "name": "Fire detection system with Arduino",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.robotique.tech/robotics/fire-detection-system-with-arduino/"
+         }, {
+            "date_added": "13340946233436398",
+            "date_last_used": "0",
+            "guid": "6d0e6e8f-972d-44c0-9442-070f1c499817",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New tab",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "edge://newtab/"
+         }, {
+            "date_added": "13341069759364682",
+            "date_last_used": "0",
+            "guid": "bfc0f8d3-af99-4a9b-9774-0434f7183f94",
+            "id": "9",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/agoda.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13341069759364489",
+            "date_last_used": "0",
+            "guid": "f84d5a1f-48c0-4517-a937-097d13916b0a",
+            "id": "8",
+            "name": "Amazon",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13341069759364095",
+            "date_last_used": "0",
+            "guid": "6dfe4b40-69e7-4b52-813b-d1e4f62bb4b6",
+            "id": "7",
+            "name": "Facebook",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/20q2/facebook.html?utm_source=win32&utm_medium=favorite"
+         } ],
+         "date_added": "13341069759092435",
+         "date_last_used": "0",
+         "date_modified": "13341072635813549",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13341069759092438",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13341069759092440",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCPmULgWLAQAAEgAgASoYazI4VUR3dSt3YlZGdW9MM0tDQkFpUT09oAYMEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDcyNWM4OGU5LTM0NjYtNWM3Ny05YmE4LWUxY2E3NTJkMGE1NxgAIAAoADCF8pvpsy84pru8reovQKa7vK3qL0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqgEIExKlAQocYTZFamxOUGNYc2F1WFNxbmN0Ym11dVJFeGFZPRIkY2ViZTg3NDctNmM0YS00MWU5LTg0MzUtMzcyYTA2MzZhNWExGAAgAigCMIKTk6iwMTjgrNXv+zBA7syRqLAxShw2bVYrUm5oOHVuY0gwMktuOEM5ckxUaVRqOVk9WiEiH///+Wo4MkJoOVptR29KNHFSUnJxYUIvOWVhZkRFdz1lzFyTRhKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQyMDYwMDRiMi1mNDVkLTVkY2UtYjliMy0yZjRkNzM4MzBjMWYYACAAKAAwhfKb6bMvOPe6vK3qL0D3uryt6i9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDM0NTkxMDM5LTliODUtNTRmNC05YTE1LTIxNWY1OGE1ODYzMRgAIAAoADCF8pvpsy84h7u8reovQIe7vK3qL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASqwEIFxKmAQocWjA0amRPYjVLUEdweWw5ZjhBY0E0Q0Iwb05nPRIkOWJlMDlhNjUtMTFlYy00Nzk2LWI3NjYtMDdiNjYzNWY0Y2VkGAAgAigCMP2Sk6iwMTjz+In8rDFA9syRqLAxShxXL0V4TnZKV1UzZUJJK1c0UUdjRm1SU2prSlk9WiIiIP///+kvMnR0eDBHQXhFTktRcTNFT1krd1lxMnZnVGs9ZQdmRIgSpwEIDxKiAQocZG52RitqNjFsbzFVcTBwbXpOSmFoOHV2K3hRPRIkN2MxZmZkZjgtMTA2MS00OGM4LWFiNjgtMTViOTJkNDJmODllGAAgACgAMM6q8PPWLzioxbyt6i9AqMW8reovShxXQXBxWTN1KzlHQy9hY2w5TjgyRlQ4SUhBSWM9Wh4iHHZiRjFubzdEbkFtS1JWNXJmdkpvMXc0WEo3RT1lAAAAABKqAQgUEqUBChwvem5FTTFTeDdnK0swWGxjLy8zeitIaEJxaGs9EiRjMDE3NmVlOC0yYzEyLTRlYjYtODAzYS0yMzU0MTE3YzEwYTgYACACKAIw/pKTqLAxOOTfi/aCMUDvzJGosDFKHEltMDRkUURxUDVOR3NxQmEzdzdDN3VtR1JiOD1aISIf///+MzFUbVJlVVd6NWJyeGkxMnJRQzJJZ2FyYkh3PWW+9nfAEqoBCBISpQEKHGhuSEh4ZTV2MExyWEFJVlMrdDAwTnZmWnpnND0SJDA0YWQ2OWY5LThlZDctNDY1MS1hZjdjLTVhOGUzN2YyNjEzYxgAIAIoAjD/kpOosDE4/bfqpvYwQO3MkaiwMUoca1pHL1RvTGMydHFVc3VUcVJmUUtYK2FyMmtzPVohIh////MvMU9sTENaYzVScUFDTnNpUnpMYjFJWGtUSk09Zd//SAISqwEIGBKmAQocZEhqdlQzRUQxRzJVeFE3V0I3bW92Y3d0QkRVPRIkNmQwZTZlOGYtOTcyZC00NGMwLTk0NDItMDcwZjFjNDk5ODE3GAAgACgAMKzjtu6vMTiqrJjtrzFAqqyY7a8xShxuWTk3aXYzeHdUMWxTeS9JaGZKZmhCYWJjQkk9WiIiIP////RieEx5bmZnVGpBdGlEYTNBRFBoM2lrVXlIdFU9ZVTVYD4SqwEIFRKmAQocOEVwTWljdzhWNXBIUjNWNGljcmdiRUREN0QwPRIkNjQzNzAwNGUtNTU2YS00ODkxLTgwYjMtYzIyOTU2NGM5NzJlGAAgAigCMIGTk6iwMTii4e7/hjFA8syRqLAxShxjUlBLNXY3QUhmYUtjSGNBc0FFZEJyeDBZZ1U9WiIiIP///6ZGdGNVeUNiOHNwYlZqNFpQc0ZwdE5rRTBobU09ZdJZn8USqAEIEBKjAQocV1FFbTVZWmdPSC9sdCtvQ3pGdE1VOTMxeHk0PRIkNzZlMmU2MTAtZTI3My00MWQ4LTllMGItMTFmNzZjNTQyOGNkGAAgAigCMIOTk6iwMTiYxbyt6i9A6syRqLAxShwwLzlrMkd3cEtwVXhHYTA1UTFQOWxzdUxIK2c9Wh8iHf5BUVhwa1RJYUJKOXRjdVp1N2RuandCZzZoVG89ZeqUj0YSqwEIFhKmAQocL3E1STJGdXFvcFcycnVSRElLNFk3bWoxMDdNPRIkNzViMDBmZjgtMzdiOC00NzZkLThmMWItODllMDE3YjNiOTVmGAAgAigCMISTk6iwMTjT85iAhzFA9MyRqLAxShxYNUoxSExTLzJOK1NNMGo1YjJRTGdzek9jdlE9WiIiIP///9MxWC92dmQ4dGd3ZElWNW9xNEZ4d3o0UER3QnM9ZVtwlpESqQEIERKkAQocYVdPMjVBWDVEaHBMamFFTlJBQ3o1N2RGN1gwPRIkOTA0ZTU0YTYtOWZmYS00ZTdhLTk2ZTEtNDUzMjE2MGE5ZDRlGAAgAigCMICTk6iwMTju8+PC3DBA68yRqLAxShwrN2lqTmp0VkRvZ1BzQ050R3ZGVFhyMzZ1ejQ9WiAiHv//MzRiSXg3UllJS0Zmc292NVFHSlR0YlZSMDZFPWWt0+MhMAA4AA==",
+   "version": 1
+}
