@@ -1,11 +1,5 @@
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(MaterialApp(
-    home: CopyAndPastePage(),
-  ));
-}
-
 class CopyAndPastePage extends StatefulWidget {
   const CopyAndPastePage({Key? key}) : super(key: key);
 
@@ -26,6 +20,9 @@ class _CopyAndPastePageState extends State<CopyAndPastePage> {
       ),
       body: Container(
         padding: EdgeInsets.all(16),
+        decoration: BoxDecoration(
+          color: Colors.grey[200],
+        ),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
           children: <Widget>[
@@ -54,9 +51,13 @@ class _CopyAndPastePageState extends State<CopyAndPastePage> {
                   pastedText = _textController.text;
                 });
               },
-              child: Text('Copy'),
-              style: ButtonStyle(
-                backgroundColor: MaterialStateProperty.all(Colors.teal),
+              style: ElevatedButton.styleFrom(
+                primary: Colors.teal,
+                padding: EdgeInsets.symmetric(horizontal: 32),
+              ),
+              child: Text(
+                'Copy',
+                style: TextStyle(color: Colors.white, fontSize: 18),
               ),
             ),
             SizedBox(height: 16),
@@ -81,6 +82,7 @@ class _CopyAndPastePageState extends State<CopyAndPastePage> {
                 style: TextStyle(
                   fontSize: 16,
                   color: Colors.teal,
+                  fontFamily: 'Architects_Daughter', // Add custom font
                 ),
               ),
             ),
