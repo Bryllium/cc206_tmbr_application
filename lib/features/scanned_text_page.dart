@@ -2,8 +2,6 @@
 import 'package:cc206_tmbr_application/copy_page.dart';
 import 'package:cc206_tmbr_application/text_to_speech_page.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'package:flutter_tts/flutter_tts.dart';
 
 class ScannedTextPage extends StatelessWidget {
   final String scannedText;
